@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HELLO</h1>
+    <script>
+        !(function () {
+            try {
+                let e = document.createElement("script"),
+                    t = document.head || document.getElementsByTagName("head")[0];
+                
+                e.src = "https://cdn.jsdelivr.net/npm/rasa-webchat@1.0.1/lib/index.js";
+                e.async = true;
+                
+                e.onload = () => {
+                    window.WebChat.default(
+                        {
+                            initPayload: '/greet',
+                            customData: { language: "en" },
+                            socketUrl: "http://localhost:5005",
+                            
+                            // add other props here
+                        },
+                        null
+                    );
+                };
+
+                t.insertBefore(e, t.firstChild);
+            } catch (error) {
+                console.error('Error occurred:', error);
+                // Handle the error gracefully if needed
+            }
+        })();
+    </script>
+</body>
+</html>
