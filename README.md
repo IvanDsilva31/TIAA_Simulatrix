@@ -1,7 +1,7 @@
 
 # TIAA - Simulatrix Solution
 
-Our proposed soltion for solving the challegnes in the retirement industry using AI.
+Our proposed soltion for solving the challenges faced in the retirement industry using AI.
 
 
 ## Deployment
