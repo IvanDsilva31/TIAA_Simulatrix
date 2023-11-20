@@ -25,7 +25,7 @@ To deploy this project
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1jhj1IVlmBi1SIqu0un8Mlio8oC6QAflG/view?usp=sharing)
+[![tiaa-sim-retirement-coach-result.png](https://i.postimg.cc/Jh7rNxx3/tiaa-sim-retirement-coach-result.png)](https://postimg.cc/QFPZspRV)
 
 
 ## Tech Stack
