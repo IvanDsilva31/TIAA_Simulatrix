@@ -35,7 +35,7 @@ Terminal 2 :
 ```bash
   rasa shell
 ```
-*AI Retirement Report Generator*
+*Retirement Report Generator*
 
 To generate the report, execute the following command after changing the current working directory to the "retirement scenario report" folder:
 
@@ -66,7 +66,7 @@ Conversation AI Result:
 
 [![2.png](https://i.postimg.cc/Hx35m599/2.png)](https://postimg.cc/9RRztDSD)
 
-AI Retirement Report Generator:
+Retirement Report Generator:
 [![report1.png](https://i.postimg.cc/K8QnXdX7/image.png)](https://postimg.cc/JsDyZYzt)
 
 [RETIREMENT REPORT PDF](https://drive.google.com/file/d/1juI2RSVJoK__TMcpZHn7fTyJDDlyhRCT/view?usp=sharing)
