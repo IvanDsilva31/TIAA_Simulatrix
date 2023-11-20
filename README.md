@@ -32,7 +32,7 @@ AI Retirement Coach Result:
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS and JavaScript
+**Frontend:** HTML, CSS, BootStrap and JavaScript
 
 **Backend:** Python
 
