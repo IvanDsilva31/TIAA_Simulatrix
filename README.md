@@ -26,6 +26,7 @@ To deploy this project
 ## Screenshots
 
 AI Retirement Coach Result:
+
 [![tiaa-sim-retirement-coach-result.png](https://i.postimg.cc/jjhWKCgc/tiaa-sim-retirement-coach-result.png)](https://postimg.cc/mctZyZG1)
 
 
