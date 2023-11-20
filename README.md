@@ -14,6 +14,8 @@ To deploy this project
   Open in GoogleColab and select the runtime as T4 GPU
 ```
 
+Our Frontend can be viewed through: [Simulatrix](https://simulatrix.netlify.app/)
+
 
 ## Features
 
