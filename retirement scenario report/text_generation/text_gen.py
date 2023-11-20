@@ -2,7 +2,7 @@ import requests
 import re
 
 API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-v0.1"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer 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"}
 
 def query(payload):
 	response = requests.post(API_URL, headers=headers, json=payload)
