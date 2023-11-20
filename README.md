@@ -14,6 +14,28 @@ To deploy this project
   Open in GoogleColab and select the runtime as T4 GPU
 ```
 
+*Conversational AI*
+
+The compressed model file exceeded 25MB and could not be added to github. Requesting you to kindly download the model from the link provided below:
+
+```bash
+  https://drive.google.com/uc?id=1JJhu8Hui1ENn7IcYLp0QZZuPKCC39ufs&export=download
+```
+
+Add the model to the models folder
+
+To run the conversational AI :
+
+Terminal 1 :
+```bash
+ rasa run actions
+```
+
+Terminal 2 : 
+```bash
+  rasa shell
+```
+
 Our Frontend can be viewed through: [Simulatrix](https://simulatrix.netlify.app/)
 
 
