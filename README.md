@@ -25,7 +25,7 @@ To deploy this project
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://drive.google.com/file/d/1jhj1IVlmBi1SIqu0un8Mlio8oC6QAflG/view?usp=sharing)
 
 
 ## Tech Stack
