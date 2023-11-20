@@ -35,6 +35,9 @@ Terminal 2 :
 ```bash
   rasa shell
 ```
+
+User can converse with the CAI (chatbot) on Terminal 2
+
 *Retirement Report Generator*
 
 To generate the report, execute the following command after changing the current working directory to the "retirement scenario report" folder:
