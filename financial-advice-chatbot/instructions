@@ -1,2 +1,2 @@
-run rasa server :rasa run -m models --enable-api --cors "*" --debug
+
 
