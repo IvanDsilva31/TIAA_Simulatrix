@@ -14,6 +14,8 @@ To deploy this project
   Open in GoogleColab and select the runtime as T4 GPU
 ```
 
+Our Frontend can be viewed through: [Simulatrix](https://simulatrix.netlify.app/)
+
 
 ## Features
 
@@ -29,10 +31,16 @@ AI Retirement Coach Result:
 
 [![tiaa-sim-retirement-coach-result.png](https://i.postimg.cc/jjhWKCgc/tiaa-sim-retirement-coach-result.png)](https://postimg.cc/mctZyZG1)
 
+Conversation AI Result:
+
+[![1.png](https://i.postimg.cc/sxXWgXnd/1.png)](https://postimg.cc/vgJTPQF3)
+
+[![2.png](https://i.postimg.cc/Hx35m599/2.png)](https://postimg.cc/9RRztDSD)
+
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS and JavaScript
+**Frontend:** HTML, CSS, BootStrap and JavaScript
 
 **Backend:** Python
 
